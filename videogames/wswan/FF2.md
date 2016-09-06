@@ -27,7 +27,7 @@ In order of appearance
 - のである https://answers.yahoo.com/question/index?qid=20130127105055AAGZC5U
 - へと http://japanese.stackexchange.com/questions/9343/particle-%E3%81%A8-with-%E3%81%B8-%EF%BD%9E%E3%81%B8%E3%81%A8
 
-
+```
 はるかかなたの せかいにおいて
 ながく つづいていた へいわが いま
 おわりをつげた
@@ -40,19 +40,20 @@ In order of appearance
 ここ フィンおうこくにすむ4にんの わかものたちも
 てきのこうげきによってりょうしんを うしない
 しつような てきの おってから にげつづけていた
+```
 
 In a faraway world,
-The long lasting harmony is now coming to an end.
+The long lasting harmony came to an end.
 
 The Palamekiya emperor summoned demons from hell,
 and set out for world domination.
 
-In reponse to this, the rebel army took a stand in Fin Kingdom but,
+To face this, the rebel army took a stand in Fin Kingdom but,
 the empire's all-out attack robbed them of their beloved castle.
 
 They had to retreat to the frontier town of Altea.
 
-4 young ones also living here in Fin Kingdom lost their parents due to the enemy's strike.
+Here, 4 young ones also living in Fin Kingdom lost their parents due to the enemy's strike.
 They were continuing their escape from the enemy's relentless pursuit...
 
 [and so the game begins...]
