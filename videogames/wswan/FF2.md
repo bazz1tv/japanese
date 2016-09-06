@@ -1,26 +1,33 @@
-﻿Bazz's Final Fantasy II WonderSwan Color Translations
------------------------------------------------------
+# Final Fantasy II Translations
+
+
+This is Bazz's Work In Progress (WIP) translation of the Wonderswan Color game ファイナルファンタジー２.
+
+## Foreword
+Although I am allowing this document to be public, it is mostly a personal piece of work. I recently procured a Wonderswan Crystal (translucent black) with this game and found it to be the perfect opportunity to enjoy improving my Japanese. However, the purpose of this is not to create an impressive translation for the masses; it must purely move me to my goal of a higher natural grasp for Japanese. Besides, there is already an English ROM patch of this game on the internet. Granted, through a comparison I have found some of the Japanese sentences are not present in the English patch (for whatever reason). Guys, you should know me by now. I do not do things for the public attention, although I am sometimes rewarded with it nonetheless.
 
 I am still developing my "natural grasp" of Japanese sentences. 
-Thus, there are at times when I elect to keep a less natural English sentence
-for the sake of easily grasping how I obtained the translation.
-I may review and "develop" the  sentence next time, including the addition of
-personality.
+Thus, sometimes I elect to keep a less natural English sentence for the sake of easily grasping the Japanese form. I may review and develop the  sentence next time, including the addition of character personality. However, I currently do not elect to add personality if I do not detect it in the original Japanese depiction of the character! I hope to increase my skill at detecting these attitudes rather than conjuring them myself merely to spice the dialogue.
 
-I think as my skill develops, I will naturally shift to natural English
-translations, because I am starting to hear natural english as I read more.
-It's Almost as if a seamless perfect union between the languages is being formed.
+As my skill develops, I expect that I will experience a shift to the production of more outstanding English sentences. I am starting to hear natural English as I read more Japanese.This makes me happy.
+It's almost as if I'm experiencing seamless perfect union between the languages forming.
 
-Topics covered
---------------
+## About the Format
+I try to include any new grammar constructs that I learned along with a particular scene in the form of links. My own comments are made inside square brackets [] to distinguish them from the game dialogue.
+
+The rest I think is self-explanatory. Let's begin!
+
+
+# Opening Sequence
+
+## Topics covered
 In order of appearance
-continuative (stem) form http://www.epochrypha.com/japanese/materials/verbs/Verb.aspx?rule=renyoukei
-のである https://answers.yahoo.com/question/index?qid=20130127105055AAGZC5U
-へと http://japanese.stackexchange.com/questions/9343/particle-%E3%81%A8-with-%E3%81%B8-%EF%BD%9E%E3%81%B8%E3%81%A8
+
+- continuative (stem) form http://www.epochrypha.com/japanese/materials/verbs/Verb.aspx?rule=renyoukei
+- のである https://answers.yahoo.com/question/index?qid=20130127105055AAGZC5U
+- へと http://japanese.stackexchange.com/questions/9343/particle-%E3%81%A8-with-%E3%81%B8-%EF%BD%9E%E3%81%B8%E3%81%A8
 
 
-Opening Sequence
-----------------
 はるかかなたの せかいにおいて
 ながく つづいていた へいわが いま
 おわりをつげた
@@ -50,15 +57,12 @@ They were continuing their escape from the enemy's relentless pursuit...
 
 [and so the game begins...]
 
-New Game
---------
-Topics Covered:
+# New Game
+## Topics Covered:
 との http://japanese.stackexchange.com/questions/34585/what-does-%E3%81%A8%E3%81%AE-mean-in-this-sentence
 
-帝　国　兵
 ていこくへい「フィンから　ここまで よくにげてきた。だが もうにげられんで！
 Empire Soldier: From Fin to here They've fled well! But they cannot run anymore!
-
 
 マリア「フリオニール！
 Maria: Frioneil!
@@ -89,25 +93,27 @@ Self-Explanatory
 
 Belongings Menu
 ---------------
+```
 みぎて Right Hand
 [ Item ]
 ひだりて Left Hand
 [ Item ]
-
 すで unarmed
 
 もくせいのゆみ wooden bow
 にちじょうようのおの ordinary looking axe
 バックラー　buckler (shield) - こがたの たて small shield (buckler)
 ブロードソード　broad sword - あつかいやすい ソード easily handled sword
-
+```
 First fight, you must die.
+
 [Main character]たちは ぜんめつした
+
 Main character's people were annihilated.
 
 -------- Scene 2
 Topics Covered:
-ないと http://maggiesensei.com/2013/10/30/%E3%80%9C%E3%81%A8-%E3%80%9C%E3%81%AA%E3%81%84%E3%81%A8-to-naito%E3%80%80conditional/
+- ないと http://maggiesensei.com/2013/10/30/%E3%80%9C%E3%81%A8-%E3%80%9C%E3%81%AA%E3%81%84%E3%81%A8-to-naito%E3%80%80conditional/
 
 ヒルダ「ミンワ　たすかりますか？
 Hilda: Minu (name), will they survive?
