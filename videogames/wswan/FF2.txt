@@ -1,0 +1,391 @@
+﻿Bazz's Final Fantasy II WonderSwan Color Translations
+-----------------------------------------------------
+
+I am still developing my "natural grasp" of Japanese sentences. 
+Thus, there are at times when I elect to keep a less natural English sentence
+for the sake of easily grasping how I obtained the translation.
+I may review and "develop" the  sentence next time, including the addition of
+personality.
+
+I think as my skill develops, I will naturally shift to natural English
+translations, because I am starting to hear natural english as I read more.
+It's Almost as if a seamless perfect union between the languages is being formed.
+
+Topics covered
+--------------
+In order of appearance
+continuative (stem) form http://www.epochrypha.com/japanese/materials/verbs/Verb.aspx?rule=renyoukei
+のである https://answers.yahoo.com/question/index?qid=20130127105055AAGZC5U
+へと http://japanese.stackexchange.com/questions/9343/particle-%E3%81%A8-with-%E3%81%B8-%EF%BD%9E%E3%81%B8%E3%81%A8
+
+
+Opening Sequence
+----------------
+はるかかなたの せかいにおいて
+ながく つづいていた へいわが いま
+おわりをつげた
+パラメキアていこくの こうていは まかいから 
+まものを よびだし
+せかいせいふくにのりだしたのである
+これにたいし はんらんぐんは フィンおうこくでたちあがったが
+ていこくの そうこうげきにあいしろを うばわれ
+へんきょうのまち アルテアへとてったいしなければ ならなかった
+ここ フィンおうこくにすむ4にんの わかものたちも
+てきのこうげきによってりょうしんを うしない
+しつような てきの おってから にげつづけていた
+
+In a faraway world,
+The long lasting harmony is now coming to an end.
+
+The Palamekiya emperor summoned demons from hell,
+and set out for world domination.
+
+In reponse to this, the rebel army took a stand in Fin Kingdom but,
+the empire's all-out attack robbed them of their beloved castle.
+
+They had to retreat to the frontier town of Altea.
+
+4 young ones also living here in Fin Kingdom lost their parents due to the enemy's strike.
+They were continuing their escape from the enemy's relentless pursuit...
+
+[and so the game begins...]
+
+New Game
+--------
+Topics Covered:
+との http://japanese.stackexchange.com/questions/34585/what-does-%E3%81%A8%E3%81%AE-mean-in-this-sentence
+
+帝　国　兵
+ていこくへい「フィンから　ここまで よくにげてきた。だが もうにげられんで！
+Empire Soldier: From Fin to here They've fled well! But they cannot run anymore!
+
+
+マリア「フリオニール！
+Maria: Frioneil!
+
+ガイ「うしろもまえも にげられない！
+Guy: We can't escape from the front or back!
+
+帝国兵「さからうものは しょけいしろとの めいれいだ！
+Empire Soldier: "Our orders are to punish the opposition, by death."
+
+うらむなら こうていにさからった おまえたちの むらのやつらや りょうしんたちを うらむんだな.
+If you're going to blame someone, blame your village people who opposed the emperor, and your parents.
+
+
+Fight Menu
+----------
+Menu 1 Enemies:
+しろきし black knight
+
+Menu 2 Actions
+たたかう Attack
+まほう   Magic
+もちもの Belongins
+にげる   Run
+
+Menu 3 Character stats
+Self-Explanatory
+
+Belongings Menu
+---------------
+みぎて Right Hand
+[ Item ]
+ひだりて Left Hand
+[ Item ]
+
+すで unarmed
+
+もくせいのゆみ wooden bow
+にちじょうようのおの ordinary looking axe
+バックラー　buckler (shield) - こがたの たて small shield (buckler)
+ブロードソード　broad sword - あつかいやすい ソード easily handled sword
+
+First fight, you must die.
+[Main character]たちは ぜんめつした
+Main character's people were annihilated.
+
+-------- Scene 2
+Topics Covered:
+ないと http://maggiesensei.com/2013/10/30/%E3%80%9C%E3%81%A8-%E3%80%9C%E3%81%AA%E3%81%84%E3%81%A8-to-naito%E3%80%80conditional/
+
+ヒルダ「ミンワ　たすかりますか？
+Hilda: Minu (name), will they survive?
+
+ミンワ「はい じきに いしきを とりもどします
+　ちからづよい せいめいりょくを かんじます
+Minu: Yes, in time he will regain consciousness. Feeling a powerful life force.
+
+ヒルダ「フィンから　ひなんしてくるとき
+　このこが ちみどろになって たおれているのを
+　みつけたのです
+Hilda: When we came seeking refuge from Fin, we found this child covered in blood, dying.
+
+ミンウ「この まほうじんが せいめいりょくを 
+　ぞうふくさせます。
+　そっとしておきましょう
+
+This magic square amplifies life force. Let's do it gently.
+
+ヒルダ「あんしんしました
+Hilda: Relieved
+
+ヒルダ「それでは かいぎに いきましょう。
+　みなあつまっているころです
+
+Hilda: Well then, let's go to the conference. It's about that time everybody's gathering.
+
+ていこくが バフスクで けんぞうちゅうの
+だいせんかん！
+あれが かんせいしたら てきの そうこうげきが
+はじまるでしょう。なにか てをうたないと！
+
+The empire has a large battleship under construction in bafusuku. When it's completed, I think the enemy will start the offensive strike. We must reach an agreement on something!
+
+フリオニール「こ ここは どこだ？
+frioneil: Wh.. Where am I?
+
+バッ！　みんなは　ぶじなのか？
+bah! Is everyone safe?
+
+レオンハルト！　マリア！　ガイ！
+
+[[ From now on I'm leaving out names that are understood to save time ]]
+
+scene 3
+-------
+マリア「フリオニール　いきていたのね！　よかった。。わたし。。グスン
+Frioniel! So you survived! Nice. I.. damn..
+
+フリオニール「マリア　ガイ　レオンハルトは どこだ？
+Frioneil: Maria, Guy, where's Leonhart?
+
+ガイ「フィンのおうじょ たすけた おれたち レオンハルト　いなかった
+Guy: Fin's princess saved us. Leonhart was not there.
+
+フリオニール「そうか。。だいじょうぶ いきているさ きっと。
+Frioneil: Really.. He's alive and well, definitely.
+
+ヒルダ「げんきになったのですね。よかった
+Hilda: You're feeling better, aren't you. Wonderful
+
+フリオニール「おうじょ わたしたちを はんらんぐんに くわえてください！
+Frioneil: Princess, please add us to Rebel Army!
+
+ヒルダ」だめ だめ！ あなたがたの　ちからでは　むだに　いのちをおとすだけです。おうちへ おかえりなさい。
+Hilda: Unacceptable! With that power of yours, you would only lose your lives pointlessly. Please, humbly return to your homes.
+
+マリア「わたしたちの いえは もうないんです。りょうしんも‥　　　　　　　　　　　　　　　
+Maria: Our houses are gone! Our parents too..
+
+ヒルダ「ごめんなさい‥‥そうだわ！よかったら アルテアでくらしなさい。あいことばさえ おぼえておけばじゆうにくらせます
+Hilda: I'm sorry.. Well then! If it's alright with you, please live in Altea. As long as you memorize the password, you can live freely.
+　　　
+ヒルダ「あいことばは【のばら】です。よく おべておくのよ。
+Hilda: The password is "wild rose." Remember it well.
+
+Menu
+----
+たずねる　Inquire
+おぼえる  Memorize
+アイテム  Item
+
+[Inquire about のばら]
+
+ヒルダ「のばらは フィンのくにの もんしょうです。フィン‥‥ああ フィンは どうなるのでしょう。とらわれたひとびとが フィンにあつめられているのをみたというものがいます‥‥
+Hilda: The wild rose is the country of Fin's crest. Fin.. Ah, what will become of Fin. I am certain I saw captives being brought there..
+
+そういえば マリアのおにいさんの レオンハルトも ゆくえしれずでしたね。もしかすると フィンのまちにいるかもしれません。
+On that note, Maria's brother LeonHart also was not located, huh. Perhaps he might be in the town of Fin.
+
+ただ いまでは フィンは　モンスターが　うろつく きけんなまちに なっています。かんたんには ちかづけないでしょう。
+But lately, monsters are walking around aimlessly in Fin. It's becoming a dangerous town. I doubt you could simply approach the town.
+
+------------
+
+[Talking to Minu]
+ミンウ「わたしには きみのうんめいが みえる。それは わたしのうんめいとも かかわっている‥‥まず フィンへいきなさい。それがうんめいをきりひらく みちになるはずだ。
+
+Your fate was seen by me. It is involved with my destiny.. First, head to Fin. That should pave the way of your destiny.
+
+[Ask about wild flower]
+
+ふふぅ さっそく あいことばをつかっているな。そうやって ひとびとのこえにみみを かたむけるのだ
+haha, promptly using the password. Just like that, the ears are bent to the people's voices. 
+
+
+1st Guard, lower left:
+ひがしにいくと みなとまちパルムだ。あいだに おおきな みずうみが あって カヌーがないと いけないで
+If you go east, (you'll find) the port city of Palm. There's a big lake in the way and if the canoe isn't there, you won't be able to go.
+
+2nd guard:
+ここは はんらんぐんの さくせんかいぎしつです。
+This is the rebel army's strategy council room.
+
+3rd guard (says same as 2nd)
+
+old man in blue: フィンにいかれるのか？　やまなされ。あそこは ていこくのモンスターが うろついておる
+You're going to Fin?　 Stop. There are monsters on the loose over there.
+きたにいったところに ガテアという　ちいさなむらが ある。おぬしらでは そこにいくのがやっとじゃ。
+There is a small village called Gatea up north. With all of you going, you'll barely make it there.
+
+[no more people in this room]
+
+[hallway]
+[enter room at right]
+
+Both Guards: ここは おうさまの しんしつです。おうさまは フィンから ここアルテアに にげてきたときに きずをおわれたのです。
+This is the king's bedroom. The time he escaped from Fin to here in Altea, he was bearing wounds.
+
+フィンおう「さきのいくさで やをこしにうけ このありさま。もうとしだ。むすめのヒルダが わしのだいりだ。ヒルダに　はなしをきけ。
+I received an arrow to the back in that past battle. That's why I'm in this condition. I'm not going to make it. My daughter Hilda is my representative. Listen to her talks.
+
+[exit, lower hallway]
+first guard: ここは アルテアのまちの はんらんぐんのアジとだ。
+This is Altea City's Rebel Army hideout.
+
+[man left]
+カシュオーンおうこくの ゴードンおうじが このアルテアにいる。おうじは じしんをうしなっておられるようだが‥‥
+The prince of Kashuon is here in Altea. But he seems to have lost his self-confidence...
+
+[woman]
+ヒルダおうじょは　フィンがほろぼされたときにこのアルテアに にげてきたの。きずついた おうさまのかわりに はんらんぐんのしきを りっぱに つとめていらっしゃいますわ。
+Princess Hilda fled to Altea when Fin was destroyed. She does a great job replacing the injured king in command.
+
+[open treasure chest]
+たからばこのなかからポーションをてにいれた
+From inside the treasure chest, you procured a potion.
+
+Outside
+-------
+guy with headress near fountain: おれさまは せかい１のとうぞく　ポールさまだ！　おれに ぬすめないものはないぜ。さいきんは ていこくぐんのきんこから がっぽりかせいでるんだ！
+I am the world's #1 thief, Paul!　 There's nothing I can't steal. Lately, I'm making a lot of money from the Empire Army's Treasury!
+
+ここはアルテアのまち。ていこくも まだ ここまでは おそってきません。でも それも いつまでもつか‥‥
+This is the town of Altea. The empire still hasn't come to attack. But, how long until they do?
+
+ガテアのむら
+------------
+Small boy: ここは ガテアのむら。みずうみのむこうにみえるのが フィンだよ。
+This is Gatea village. Fin is in sight on the other side of the lake.
+
+Main Menu
+---------
+アイテム Item
+まほう Magic
+そうび Equipment
+すてーたす Status
+たいれつ Ranks
+ことば Words
+コンフィグ　Config
+ちゅうだん Break
+セーブ	Save
+
+Expound these sub-menus!
+
+アイテム Item
+-------------
+つかう Use
+せいとん Sort
+[when highlighted, menu box says:]
+アイテムを コンフィグでせっていした じゅんばんに ならびかえます
+Sort the items in the order in which you set in the config
+
+ごみばこ garbage can
+
+そうび equipment
+----------------
+そうび equipment
+さいきょう Strongest 　
+ぼうぎょさいきょう Defense Strongest
+
+こうけき attack
+ぼうぎょ defense
+
+みぎて right hand
+ひだりて left hand
+あたま head
+からだ body
+うで arm
+アイテム
+
+ステータス
+----------
+ひだりきき right-handed
+みぎきき left handed
+めいちゅうりつ Hit probability (accuracy rate)
+かいひりつ Evasion Rate
+まほうぼうぎょMagic Defense
+
+じゅくれんど　skill count
+
+ちから　power
+たいりょく physical strength
+せいしん Spirit
+すばやさ Quickness
+ちせい Intelligence
+まりょく Magic Power
+
+ことば Words
+-------------
+フィンのくにの もんしょう
+はんらんぐんのあいことばとしても、つかわれている
+Fin's country's crest. It is also being used as the rebel army's password
+
+コンフィグ Config
+-----------------
+
+オートターゲット Auto target
+タゲットがいなくなったばあいの　どうさをけっていてｋる
+You can track the movement in case the target is gone.
+
+ミニマップ　ちきゅうぎ　ちず Mini Map / Globe / map
+せかいちずを２しゅるいのひょうじからえらぶことができる
+The world map can be selected from 2 views
+
+Bボタンダッシュ B Button Dash
+Bボタンを おしながらダッシュ　できるかをえらぶことができる
+You can select if dash is possible While holding the B button
+
+カーソルいちきおく　しょき　きおく Cursor position memory / initial / storage
+カーソルいちを、おぼえておくのか わすれるのか、えらぶことができる
+You can choose between remembering or forgetting the cursor position.
+
+サウンド　ステレオ　モノラル Sound / stereo / mono
+おとのしゅつりょくを、ステレオとモノラルと、きりかえることができる
+You can switch the sound output between stereo and mono.
+
+Yボタンせってい　しょき　カスタム Y Button setting / initial / customize
+Yボタンにどのようなきのうをもたせるか、せっていできる
+You can choose how the features are imparted to the Y button
+
+メッセージそくど Message Rate
+メッセージをひょうじするそくどをせっていできる
+You can set the speed at which to display the message
+
+ウィンドウカラー Window Color
+ウィンドウのカラーをせっていできる
+You can set the window color
+
+せいとんせってい Organizer setting
+アイテムのならびじゅんばんをせっていできる
+You can set the sort order of the items
+
+ちゅうだん Break
+----------------
+
+ちゅうだんすると、つぎにさいかいでつづきからげーむをはじめることができます
+If you break, you can start the game next time and continue where you left off.
+
+でんげんをOFFにしてもだいじょうぶです
+It is OK to turn off the power.
+
+さいかいでつづきからあそべます
+You can play from where you left off.
+
+ちゅうだんしたところからさいかいします。ちゅうだんできろくされたげーむはなくなります
+Continuing from the break point. The breakpoint savedata will be lost.
+
+あいことばとしてもつかわれている
+Password even if it's in use
+
