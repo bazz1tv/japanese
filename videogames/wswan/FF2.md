@@ -1,9 +1,10 @@
-# Final Fantasy II Translations
-
+Final Fantasy II Translations
+=============================
 
 This is Bazz's Work In Progress (WIP) translation of the Wonderswan Color game ファイナルファンタジー２.
 
-## Foreword
+Foreword
+--------
 Although I am allowing this document to be public, it is mostly a personal piece of work. I recently procured a Wonderswan Crystal (translucent black) with this game and found it to be the perfect opportunity to enjoy improving my Japanese. However, the purpose of this is not to create an impressive translation for the masses; it must purely move me to my goal of a higher natural grasp for Japanese. Besides, there is already an English ROM patch of this game on the internet. Granted, through a comparison I have found some of the Japanese sentences are not present in the English patch (for whatever reason). Guys, you should know me by now. I do not do things for the public attention, although I am sometimes rewarded with it nonetheless.
 
 I am still developing my "natural grasp" of Japanese sentences. 
@@ -18,9 +19,11 @@ I try to include any new grammar constructs that I learned along with a particul
 The rest I think is self-explanatory. Let's begin!
 
 
-# Opening Sequence
+Opening Sequence
+================
 
-## Topics covered
+Topics covered
+--------------
 In order of appearance
 
 - continuative (stem) form http://www.epochrypha.com/japanese/materials/verbs/Verb.aspx?rule=renyoukei
@@ -48,8 +51,8 @@ The long lasting harmony came to an end.
 The Palamekiya emperor summoned demons from hell,
 and set out for world domination.
 
-To face this, the rebel army took a stand in Fin Kingdom but,
-the empire's all-out attack robbed them of their beloved castle.
+To face this, the rebel army took a stand in Fin Kingdom, but,
+they suffered the empire's all-out attack, and the castle was lost.
 
 They had to retreat to the frontier town of Altea.
 
@@ -58,9 +61,12 @@ They were continuing their escape from the enemy's relentless pursuit...
 
 [and so the game begins...]
 
-# New Game
-## Topics Covered:
-との http://japanese.stackexchange.com/questions/34585/what-does-%E3%81%A8%E3%81%AE-mean-in-this-sentence
+New Game
+========
+
+Topics Covered
+--------------
+- との http://japanese.stackexchange.com/questions/34585/what-does-%E3%81%A8%E3%81%AE-mean-in-this-sentence
 
 ていこくへい「フィンから　ここまで よくにげてきた。だが もうにげられんで！
 Empire Soldier: From Fin to here They've fled well! But they cannot run anymore!
@@ -71,7 +77,7 @@ Maria: Frioneil!
 ガイ「うしろもまえも にげられない！
 Guy: We can't escape from the front or back!
 
-帝国兵「さからうものは しょけいしろとの めいれいだ！
+ていこくへい「さからうものは しょけいしろとの めいれいだ！
 Empire Soldier: "Our orders are to punish the opposition, by death."
 
 うらむなら こうていにさからった おまえたちの むらのやつらや りょうしんたちを うらむんだな.
@@ -79,14 +85,15 @@ If you're going to blame someone, blame your village people who opposed the empe
 
 
 Fight Menu
-----------
+==========
+
 Menu 1 Enemies:
 しろきし black knight
 
 Menu 2 Actions
 たたかう Attack
 まほう   Magic
-もちもの Belongins
+もちもの Belongings
 にげる   Run
 
 Menu 3 Character stats
@@ -106,36 +113,42 @@ Belongings Menu
 バックラー　buckler (shield) - こがたの たて small shield (buckler)
 ブロードソード　broad sword - あつかいやすい ソード easily handled sword
 ```
-First fight, you must die.
 
-[Main character]たちは ぜんめつした
+フリオニールたちは ぜんめつした
 
-Main character's people were annihilated.
+Frioneil's people were annihilated.
 
--------- Scene 2
-Topics Covered:
+Scene 2
+=======
+
+Topics Covered
+--------------
 - ないと http://maggiesensei.com/2013/10/30/%E3%80%9C%E3%81%A8-%E3%80%9C%E3%81%AA%E3%81%84%E3%81%A8-to-naito%E3%80%80conditional/
 
 ヒルダ「ミンワ　たすかりますか？
+
 Hilda: Minu (name), will they survive?
 
 ミンワ「はい じきに いしきを とりもどします
 　ちからづよい せいめいりょくを かんじます
+
 Minu: Yes, in time he will regain consciousness. Feeling a powerful life force.
 
 ヒルダ「フィンから　ひなんしてくるとき
 　このこが ちみどろになって たおれているのを
 　みつけたのです
-Hilda: When we came seeking refuge from Fin, we found this child covered in blood, dying.
+
+Hilda: When we came seeking refuge from Fin, we found this child bloody dying.
 
 ミンウ「この まほうじんが せいめいりょくを 
 　ぞうふくさせます。
 　そっとしておきましょう
 
-This magic square amplifies life force. Let's do it gently.
+This magic square amplifies life force. Let's leave him be.
 
 ヒルダ「あんしんしました
-Hilda: Relieved
+
+Hilda: What a relief. (lit. I was relieved (similar to よかった usage?))
 
 ヒルダ「それでは かいぎに いきましょう。
 　みなあつまっているころです
@@ -271,10 +284,64 @@ I am the world's #1 thief, Paul!　 There's nothing I can't steal. Lately, I'm m
 ここはアルテアのまち。ていこくも まだ ここまでは おそってきません。でも それも いつまでもつか‥‥
 This is the town of Altea. The empire still hasn't come to attack. But, how long until they do?
 
+Prince Gordon:
+わたしのなは ゴードン。かつては カシュオーンのおうじだった。いまはただの ひきょうものだ。あにのスコットが うちじにしたとき わたしは にげだして しまったのだ！！
+My name is Gordon. I was once the prince of Gashuon. Now I'm merely a coward.　 When my brother died in battle, I ran away! [accidently?]
+
+[ask him about the wild flower]
+
+Top-right house
+---------------
+いのりを ささげると とうぜん あたたかいひかりが あたりをつつみ どこからともなく やさしさにみちあふれた こえが ひびいた
+
+まよえる ししゃの たましいよ‥かなしみとくらやみのしはいする とおいくにより いま よみがえれ！！
+
+[dead party member is revived]
+
+Shop
+----
+しぼう
+
+いらっしゃいませ なにか ごようですか
+
+じゅうじか
+のろいをけしさる
+なにをさしあげましょう
+とんかち；わすれるをなおす
+おとめのキッス；「かえる」をなおす
+きんのはり；「いし」をなおす
+
+guy on the right:
+フェニックスのお；「しぼう」から ふっかつさせる
+エーテル；MP が すこしかいふくする
+コテージ；やがいでつかう HP,MP が かんぜんかいふくする
+エリクシャー；HP,MP が かんぜんかいふくする
+
+guy on the left:
+ポ＝ション；HP が すこしかいふくする
+ハイポーション；HP が かいふくする
+めぐすり；「くらやみ」を なおす
+どくけし；「もうどく」を けしさる
+
+
 ガテアのむら
 ------------
 Small boy: ここは ガテアのむら。みずうみのむこうにみえるのが フィンだよ。
 This is Gatea village. Fin is in sight on the other side of the lake.
+
+```
+old man: フィンのしろは ていこくに せんりょうされ とびらを かたくとざされてしまい なかにはいれん。まちも　ていこくのへいしや　モンスターが うろついていて きけんじゃ。
+
+There are also empire soldiers and monsters lurking in the town, so it's dangerous
+
+Note: ている＋そして(and) => ていて
+```
+
+lady: ここガテアや アルテアまでは ていこくも まだ おそってきません。でも、ていこくの だいせんけんが かんせいしてしまったら ここも‥
+The empire still hasn't come to invade Gatea and Altea. But, if the empire's large battleship is completed, this place... [is done for]
+
+boy 2: フィンのまちのはずれに さかばがある。そこのますたーは ていこくにせんりょうされたとき ひとり にげおくれて いまでも ていこくのへいしあいてに しょうばいを つづけているようだ。
+On the outskirts of Fin there is a bar. When the town was captured by the empire, the bar manager alone failed to escape. It seems up until now that he has been continuing business with the empirial soldiers.
 
 Main Menu
 ---------
