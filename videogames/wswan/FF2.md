@@ -286,9 +286,36 @@ This is the town of Altea. The empire still hasn't come to attack. But, how long
 
 Prince Gordon:
 わたしのなは ゴードン。かつては カシュオーンのおうじだった。いまはただの ひきょうものだ。あにのスコットが うちじにしたとき わたしは にげだして しまったのだ！！
-My name is Gordon. I was once the prince of Gashuon. Now I'm merely a coward.　 When my brother died in battle, I ran away! [accidently?]
+My name is Gordon. I was once the prince of Kashuon. Now I'm just a coward.　 When my brother　　 Scott died in battle, I just ran away! [accidently?]
 
 [ask him about the wild flower]
+
+Sacred House
+------------
+いのりを ささげると とつぜん あたたかいひかりが あたりをつつみ どこからともなく やさしさにみちあふれた こえが ひびいた‥‥
+まよえる ししゃの たましいよ‥　かなしみとくらやみのしはいする とおいくにより いま よみがえれ！！
+You offered a prayer, suddenly a warm light covered the area. From out of nowhere, a voice overflowing with kindness reverberated. "Lost soul, from the distant land that controls the Sadness and darkness, now revive!"
+
+more natural: <Repiphany> "As you finish praying, a warm light suddenly surrounds you. A gentle voice sounds out: 'Lost soul, come back from the far lands of sorrow and darkness'"
+
+<karelian> I guess 迷える is an old continuative form of 迷う
+<Repiphany> http://oshiete.goo.ne.jp/qa/6129038.html#an17449095
+<karelian> used here for poetic effect
+
+Defense Shop
+------------
+もっているかず `# carrying` (かず = amount)
+そうびしている `# equipped`
+
+Attack Shop
+-----------
+Outside
+boy: そこの ぶきやにいる トブールは うでのいい かじやさ。でも さいきん げんきがないんだ。
+In that arms shop is Tobuuru. He is a really skilled blacksmith. But lately he is not feeling well.
+トブール「わしは ただの としよりじゃ。
+[ask him about the wild flower]
+ただの としよりとは かりのすがたじゃ。じつは はんらんぐん１の かじや トブール じゃ！
+The "plain old man" is just a disguise. In fact, I am the Rebel Army's master blacksmith tobuuru!
 
 Top-right house
 ---------------
