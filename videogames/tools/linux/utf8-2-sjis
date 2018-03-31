@@ -1,0 +1,1 @@
+iconv -f UTF-8 -t SHIFT_JIS -o "$2" "$1"

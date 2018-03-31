@@ -298,6 +298,11 @@ You offered a prayer, suddenly a warm light covered the area. From out of nowher
 
 more natural: <Repiphany> "As you finish praying, a warm light suddenly surrounds you. A gentle voice sounds out: 'Lost soul, come back from the far lands of sorrow and darkness'"
 
+<Repiphany> と is just used for expressing the sequence of events rather than a generic conditional or whatever.
+<Repiphany> よ is indicating a vocative case, as in the speaker is addressing the wandering spirits of the dead
+
+https://en.wikipedia.org/wiki/Vocative_case
+
 <karelian> I guess 迷える is an old continuative form of 迷う
 <Repiphany> http://oshiete.goo.ne.jp/qa/6129038.html#an17449095
 <karelian> used here for poetic effect
@@ -316,14 +321,6 @@ In that arms shop is Tobuuru. He is a really skilled blacksmith. But lately he i
 [ask him about the wild flower]
 ただの としよりとは かりのすがたじゃ。じつは はんらんぐん１の かじや トブール じゃ！
 The "plain old man" is just a disguise. In fact, I am the Rebel Army's master blacksmith tobuuru!
-
-Top-right house
----------------
-いのりを ささげると とうぜん あたたかいひかりが あたりをつつみ どこからともなく やさしさにみちあふれた こえが ひびいた
-
-まよえる ししゃの たましいよ‥かなしみとくらやみのしはいする とおいくにより いま よみがえれ！！
-
-[dead party member is revived]
 
 Shop
 ----
@@ -369,6 +366,32 @@ The empire still hasn't come to invade Gatea and Altea. But, if the empire's lar
 
 boy 2: フィンのまちのはずれに さかばがある。そこのますたーは ていこくにせんりょうされたとき ひとり にげおくれて いまでも ていこくのへいしあいてに しょうばいを つづけているようだ。
 On the outskirts of Fin there is a bar. When the town was captured by the empire, the bar manager alone failed to escape. It seems up until now that he has been continuing business with the empirial soldiers.
+
+フィンのまち
+------------
+さかばの中 [inside the pub]
+マスター「おいおい　カウンターのなかに　はいられちゃこまるなー！！　まったく　ていこくのやつは　がさつでこまる････ブツブツ････
+Hey, hey! If you come over the counter I'll be pissed! Those empire guys are so god damn rude. *grumble grumble*
+
+[tell him about wildflower]
+
+この　かべに　かくしとびらがある！
+おくに　きずついたせんしがいる 。
+おれはもう　こんなところは　こりごりだ！
+あとは　おまえらにまかせるよ 。 それじゃあな！
+
+There is a door hidden in this wall! Inside are wounded warriors. I've had enough of this place! I leave the rest to you. So long~
+
+せんし「おれを　ていこくにうるきか？
+それなら せめて　ころしてからにしてくれ 。
+いきたままつかまりたくはない････
+
+Do you intend to sell me to the empire? If that's the case, please kill me, then do it.
+Do you intend to give me up to the empire? If that's the case, please kill me first. I do not want to be caught alive.
+
+constrastive wa http://jlptbootcamp.com/2012/02/japanese-particles-the-contrastive-wa/
+
+
 
 Main Menu
 ---------
