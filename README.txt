@@ -15,3 +15,15 @@ Learning Japanese over an extended time, one notices patterns in the language. S
 
 It's entirely possible I'm doing this for myself and coincidentally there is still a chance someone benefits from it. So that's nice. Still not sure whether I will do it yet(edited)
 This research is also focused on the path of 「moving away from hearing/seeing Japanese literally to feeling the essence of the language.」 Take for instance something I had trouble with today: そのひとり which seems to mean to me "That one person" when it means "one of them"  I'll simply be documenting those kind of analysis I form. ("what it seemed to mean" vs. "what it actually means, maybe lol") Since I am a learner, I would provide warning that the documentation does not have a guarantee.
+
+
+口語：　　今より　もっと 強くならなきゃなんねえんだ。
+文語：　　今より　もっと 強くならなきゃならないんだ。
+　そして　今より　もっと 強くならなければならないんだ。
+
+Preferred Sentences
+
+(kombucha)
+a pungent taste
+強く舌を刺激するような味 - EDR日英対訳辞書
+lit. flavor that stimulates the tongue strongly
